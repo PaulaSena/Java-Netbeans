@@ -69,6 +69,7 @@ public class OlaMundoJava extends javax.swing.JFrame {
 
     private void btmClikActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btmClikActionPerformed
         // TODO add your handling code here:
+        lblMensagem.setText("Olá, Mundo!");
     }//GEN-LAST:event_btmClikActionPerformed
 
     /**
