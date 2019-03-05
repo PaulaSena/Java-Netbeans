@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="200" prefWidth="320" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="olamundojavafx.FXMLDocumentController">
+   <children>
+      <Button fx:id="btmClik" layoutX="127.0" layoutY="106.0" mnemonicParsing="false" onAction="#clicouBotao" text="Clik" textAlignment="CENTER" />
+      <Label fx:id="lblMensagem" graphicTextGap="5.0" layoutX="106.0" layoutY="67.0" text="Ual ficou top!!!" textAlignment="CENTER" textFill="#b52222" />
+   </children>
+</AnchorPane>
